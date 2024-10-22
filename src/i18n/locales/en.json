@@ -1,0 +1,46 @@
+{
+  "common": {
+    "home": "Home",
+    "index": "Index",
+    "name": "Name",
+    "email": "Email",
+    "status": "Status",
+    "total": "Total",
+    "items": "items",
+    "forgotPassword": "Forgot password",
+    "error": "Error",
+    "login": "Login",
+    "success": "Success",
+    "logout": "Logout",
+    "person": "Person",
+    "downloadCsv": "Download CSV",
+    "cancel": "Cancel",
+    "create": "Create",
+    "fullName": "Full name",
+    "password": "Password"
+  },
+  "validate": {
+    "emailWrongFormat": "Email is wrong format",
+    "phoneInvalid": "Phone is invalid",
+    "fieldIsRequired": "Field is required",
+    "passwordWrongFormat": "Password is wrong format",
+    "noAllSpaces": "All space is not accepted",
+    "incorrectFormat": "URL is wrong format"
+  },
+  "total": {
+    "numberOfStaff": "Number of staff"
+  },
+  "placeholder": {
+    "searchKeyword": "Search keyword"
+  },
+  "staff": {
+    "management": "Staff management",
+    "add": "Add staff"
+  },
+  "confirm": {
+    "deleteStaff": "Confirm delete staff"
+  },
+  "user": {
+    "management": "User management"
+  }
+}
